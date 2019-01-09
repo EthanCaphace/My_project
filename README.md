@@ -2,7 +2,7 @@
 Hey there am Ethan
 I have interest in Web-Development
 
-## Transportation Progotype
+## Claims or Suggestions Progotype
 ![Image](https://img.etimg.com/thumb/msid-46065787,width-300,imgsize-83533,resizemode-4/7-things-mobile-app-developers-should-focus-on.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
