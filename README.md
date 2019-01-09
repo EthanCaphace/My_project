@@ -1,7 +1,5 @@
 # SemaFREE APP
-Hey there am Ethan
-I have interest in Web-Development
-
+Hey We are trying to develop an online claims and suggestion reporting system
 ## Claims or Suggestions Progotype
 ![Image]https://www.affinitycuia.org/filesimages/mobile-app-service.png)
 
